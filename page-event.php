@@ -12,7 +12,7 @@ get_header(); ?>
 					  
             //display future events
 					
-	<?php  endwhile; endif;wp_reset_query(); ?>
+	endwhile; endif;wp_reset_query(); 
         
 get_footer();
   
