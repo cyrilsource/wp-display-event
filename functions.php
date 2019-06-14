@@ -1,3 +1,5 @@
+<?php
+
 function getFutureEvent () {
 
 $time = current_time("Ymd");
