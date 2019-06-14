@@ -1,6 +1,6 @@
 <?php
 /**
- template to display events
+ * template to display events
  */
 
 get_header(); ?>
